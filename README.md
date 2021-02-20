@@ -8,6 +8,14 @@ Claro ue fiz algumas modificações e ainda estou fazendo, algumas das modifica�
 - Adicionar modo dark
 - Criar um servidor com NodeJS
 
+<p align="center">
+  <img src="assets/prints/loginPage.PNG" width="300">
+  <img src="assets/prints/app.PNG" width="300">
+  <img src="assets/prints/appDark.PNG" width="300">
+</p>
+
+----------------------------------------------------------------------------------------------------
+
 ## Instalação
 
 Para realizar a instalação do projeto basta realizar o download do projeto ou clonar o repositório. 
